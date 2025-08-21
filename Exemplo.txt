@@ -1,0 +1,5 @@
+public class new{
+	public static void (String[]args){
+		System.out.println("Morre);
+		}
+}
